@@ -8,8 +8,7 @@ The only experience I had with any type of regression model was in the IB Analys
 
 
 ## Graphs
-![image](https://user-images.githubusercontent.com/97753409/215263814-e2811ec2-e619-4263-b39e-705bd4d83e4f.png)
-![image](https://user-images.githubusercontent.com/97753409/215263829-8cdc2b01-40ba-42c6-b676-460985305731.png)
+<img src="https://user-images.githubusercontent.com/97753409/215263814-e2811ec2-e619-4263-b39e-705bd4d83e4f.png" width="450"> <img src="https://user-images.githubusercontent.com/97753409/215263829-8cdc2b01-40ba-42c6-b676-460985305731.png" height="362">
 
 
 
