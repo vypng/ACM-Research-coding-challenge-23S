@@ -4,7 +4,7 @@
 
 
 ## Challenges
-The only experience I had with any type of regression model was in the IB Analysis and Solutions course I took during my senior year of high school. Luckily, my Individual Assessment (IA) was a research paper studying exponential and logarithmic regression between two variables, so I was fairly confident in my abilities to create and understand simple regression models. However, I am not familiar with multivariate regression nor am I experienced with numpy, pandas, or sklearn. So, I had to consult several resources to help me learn (see sources below).
+The only experience I had with any type of regression model was in the IB Analysis and Solutions course I took during my senior year of high school. Luckily, my Individual Assessment (IA) was a research paper studying exponential and logarithmic regression between two variables, so I was fairly confident in my abilities to create and understand simple regression models. However, I am not familiar with multivariate regression nor am I experienced with numpy, pandas, or sklearn. So, I had to consult several resources to help me learn (see [sources](#Resources-Consulted) below).
 
 
 ## Graphs
