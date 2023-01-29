@@ -1,7 +1,7 @@
 # ACM Research coding challenge (Spring 2023)
 
 ## Approach & Solution
-I decided to try to predict a star's type using its given temperature (K) and luminosity (L/Lo). I thought the best and more efficient way to do this is with Python libraries such as numpy, pandas, and sklearn, which allow me to easily create and display linear regression models. I first had to make sure I fully understood multivariate regression, though.
+I decided to try to predict a star's type given its temperature (K) and luminosity (L/Lo). I thought the best and most efficient way to do this is with python libraries such as numpy, pandas, and sklearn, allowing me to easily create and display linear regression models. I first had to make sure I fully understood multivariate regression, though.
 
 
 ## Challenges
